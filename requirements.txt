@@ -1,0 +1,4 @@
+nltk
+stanza
+spacy
+scikit-learn
